@@ -407,6 +407,9 @@
   .bg-\[url\(\)\] {
     background-image: url();
   }
+  .bg-\[url\(\.\/src\/images\/4524a51015501a042c9101d608393bf2ef9fe1c3\.png\)\] {
+    background-image: url(./src/images/4524a51015501a042c9101d608393bf2ef9fe1c3.png);
+  }
   .bg-\[url\(\/src\/images\/4524a51015501a042c9101d608393bf2ef9fe1c3\.png\)\] {
     background-image: url(/src/images/4524a51015501a042c9101d608393bf2ef9fe1c3.png);
   }
